@@ -5,9 +5,10 @@ Exploration Global Dataset is a dataset provided by a hybrid model to perform ma
 # Purpose
 The approach used to obtain this dataset investigates the general application's features. Then this performs some investigations on the several nodes to analyze the global app behavior.Finally, you can read the result obtained after using machine learning analysis on the dataset (Random Forest and SVM algorithms) and a k-folds approach with ten occurrences.
 
-|Algorithms|Accuracy|Precision|Recall|F1_Score
-Random Forest|0.957|0.957|0.957|0.957
-SVM|0.945|0.945|0.945|0.945
+|Algorithms|Accuracy|Precision|Recall|F1_Score|
+|---|---|---|---|---|
+|Random Forest|0.957|0.957|0.957|0.957|
+|SVM|0.945|0.945|0.945|0.945|
 
 
 # Availability
