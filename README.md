@@ -18,7 +18,7 @@ This dataset is composed by 1072 records (461 benigns and 611 malwares). Benign 
 
 You could find in this table the list of features include in this dataset.
 
-|Feature|Type|PhaseExtraction|
+|Feature|Type|Phase Extraction|
 |---|---|---|
 |Providers number| Extracted|Static|
 |Extern attribute| Extracted|Dynamic|	
