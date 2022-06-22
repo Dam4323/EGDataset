@@ -10,6 +10,9 @@ The approach used to obtain this dataset investigates the general application's 
 |Random Forest|0.957|0.957|0.957|0.957|
 |SVM|0.945|0.945|0.945|0.945|
 
+#Dataset Population
+
+This dataset is composed by 1072 records (461 benigns and 611 malwares). Benign app are extracted from "ApkPure" web service (https://m.apkpure.com/fr/) and malwares from "VirusShare".
 
 # Availability
 This dataset is under an open-source license, but the model's code is unavailable for privacy reasons. However, if you have any questions before using it, you can contact me by e-mail (damien.strullu@gmail.com) or Linkedin (https://www.linkedin.com/in/damienstrullu/).
