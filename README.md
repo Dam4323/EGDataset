@@ -18,35 +18,35 @@ This dataset is composed by 1072 records (461 benigns and 611 malwares). Benign 
 
 You could find in this table the list of features include in this dataset.
 
-|Feature|Type|
-|---|---|
-|Providers number| Extracted|
-|Extern attribute| Extracted|	
-|Strings Global number	| Extracted|
-|Dex number| Extracted|	
-|Intern attribute| Extracted|	
-|Argument Type number| Extracted|	
-|Balise number	| Extracted|
-|Call number| Extracted|	
-|Special strings number| Extracted|	
-|Custom Argument| Calculated|	
-|Affectation number| Calculated|	
-|Number of sginature permission| Extracted|	
-|Number of Dangerous permission| Extracted|	
-|Average size of class| Calculated|	
-|Services number| Extracted|	
-|Android API| Extracted|	
-|Receivers Numbers| Extracted|	
-|Unicode number| Extracted|	
-|URL Number| Extracted|	
-|Weighted Method per class| Calculated|	
-|Reponse for class| Calculated|	
-|Class number	| Extracted|
-|Permission number| Extracted|	
-|Other Permission number| Extracted|	
-|Number of child| Calculated|	
-|Other Type String Number| Extracted|	
-|System Args| Calculated|
+|Feature|Type|PhaseExtraction|
+|---|---|---|
+|Providers number| Extracted|Static|
+|Extern attribute| Extracted|Dynamic|	
+|Strings Global number	| Extracted| Static|
+|Dex number| Extracted|Dynamic|	
+|Intern attribute| Extracted|Dynamic|	
+|Argument Type number| Extracted|Dynamic|	
+|Balise number	| Extracted| Static|
+|Call number| Extracted| Static|	
+|Special strings number| Extracted| Static|	
+|Custom Argument| Calculated| Static|	
+|Affectation number| Calculated| Static|	
+|Number of sginature permission| Extracted| Static|	
+|Number of Dangerous permission| Extracted|	Static|
+|Average size of class| Calculated| Dynamic|	
+|Services number| Extracted|	Static|
+|Android API| Extracted| Static|	
+|Receivers Numbers| Extracted| Static|	
+|Unicode number| Extracted|	Static|
+|URL Number| Extracted| Static|
+|Weighted Method per class| Calculated| Dynamic|	
+|Reponse for class| Calculated|Dynamic|	
+|Class number	| Extracted| Static|
+|Permission number| Extracted| Static|	
+|Other Permission number| Extracted|	Static|
+|Number of child| Calculated|	Dynamic|
+|Other Type String Number| Extracted| Static|	
+|System Args| Calculated| Static|
 
 
 # Availability
