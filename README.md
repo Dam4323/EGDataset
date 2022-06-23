@@ -56,4 +56,4 @@ If you use this dataset, thanks to mention this it in your work.
 
 # Special Thanks
 
-This dataset is obtained due to the participation "VirusShare" (https://virusshare.com/) and "VirusTotal" (https://www.virustotal.com/) to perform some detection on the sample data provided.
+This dataset is obtained due to the participation of "VirusShare" (https://virusshare.com/) and "VirusTotal" (https://www.virustotal.com/) to perform some detection on the sample data provided.
