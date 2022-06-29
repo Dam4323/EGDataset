@@ -52,7 +52,7 @@ You could find in this table the list of features include in this dataset.
 # Availability
 This dataset is under an open-source license, but the model's code is unavailable for privacy reasons. However, if you have any questions before using it, you can contact me by e-mail (damien.strullu@gmail.com) or Linkedin (https://www.linkedin.com/in/damienstrullu/). This dataset is not available for commercial purpose and makes no warranty for such use.
 
-If you use this dataset, thanks to mention this it in your work.
+If you use this dataset, thanks to mention this in your work.
 
 # Special Thanks
 
