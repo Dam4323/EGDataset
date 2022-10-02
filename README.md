@@ -12,8 +12,6 @@ The approach used to obtain this dataset investigates the general application's 
 
 # Article linked to this work
 
-https://github.com/Dam4323/MalwareDetectionExperiment/blob/main/02_-_Hybrid_Detection_Model_for_Android_Malware.pdf
-
 # Dataset Population
 
 This dataset is composed by 1072 records (461 benigns and 611 malwares). Benign app are extracted from "ApkPure" web service (https://m.apkpure.com/fr/) and malwares from "VirusShare".
